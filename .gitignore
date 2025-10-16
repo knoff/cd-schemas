@@ -1,0 +1,15 @@
+# Node/JS (если вдруг будут утилиты)
+node_modules/
+
+# Python
+.venv/
+__pycache__/
+*.py[cod]
+*.pyo
+
+# ОС/IDE
+.DS_Store
+Thumbs.db
+.vscode/
+!.vscode/settings.json
+!.vscode/extensions.json
