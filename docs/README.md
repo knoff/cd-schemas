@@ -6,7 +6,8 @@ JSON Schemas и OpenAPI для Coffee Digital.
 
 - `mqtt/` — топики, матрица QoS/retain
 - `jsonschema/` — описания команд и телеметрии
-- `manifest/` — схемы RPK и firmware
+  - `manifest/` — схемы RPK и firmware
+  - `telemetry/` — схемы кадров для телеметрии
 - `openapi/` — спецификация SaaS API
 
 ## Правила
