@@ -1,7 +1,7 @@
 {
   "name": "cd-protocol",
   "version": "0.1.0",
-  "description": "Coffee Digital Binary Protocol (ESP-NOW)",
+  "description": "Coffee Digital Binary Protocol",
   "frameworks": ["arduino", "espidf"],
   "platforms": ["espressif32"],
   "build": {
