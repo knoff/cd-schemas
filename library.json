@@ -1,0 +1,14 @@
+{
+  "name": "cd-protocol",
+  "version": "0.1.0",
+  "description": "Coffee Digital Binary Protocol (ESP-NOW)",
+  "frameworks": ["arduino", "espidf"],
+  "platforms": ["espressif32"],
+  "build": {
+    "includeDir": "src/c",
+    "srcDir": "src/c"
+  },
+  "export": {
+    "include": ["src/c/**/*.h", "src/c/**/*.c"]
+  }
+}
